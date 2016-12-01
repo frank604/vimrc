@@ -33,9 +33,9 @@ set guioptions-=L
 "colorscheme miromiro
 "colorscheme mirodark
 "colorscheme ir_black
-colorscheme tender
+"colorscheme tender
 "colorscheme gruvbox
-"colorscheme base16-tomorrow-night 
+colorscheme tomorrow-night 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
